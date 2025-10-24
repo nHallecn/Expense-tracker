@@ -23,7 +23,7 @@ A straightforward, client-side **Expense Tracker** application built with vanill
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-link]
+    git clone [(https://nhallecn.github.io/Expense-tracker)]
     ```
 2.  **Open the project folder.**
 3.  Double-click `index.html` to open the application in your web browser.
